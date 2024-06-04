@@ -2,7 +2,7 @@ body{
   background-color: #89cff0;
 }
 h1{
-  
+  font-family: 'Courier New', monospace;
   font-size:300%;
   letter-spacing: 3px;
   color: #000000;
